@@ -2,4 +2,4 @@
 A Taquin Game in C terminal
 
 
-![Game ScreenShot](demo.jpg)
+![Game ScreenShot](demoJPG.jpg)

@@ -1,6 +1,6 @@
 # Taquin
 ## status - COMPLETE*
-Option can be added, performance can be improved, but the project is considarated finished.
+Option could have been added, performance could have been improved, but the project is considarated finished.
 ## Description
 A terminal's Taquin Game in C 
 in french or translated in english
